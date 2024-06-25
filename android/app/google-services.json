@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373065739229",
+    "project_id": "aboutsurat-9b189",
+    "storage_bucket": "aboutsurat-9b189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373065739229:android:2aed9c137fb2f41898e434",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_Zz5s3fzCAp6f0tVeeh_4InAe8_nfNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
